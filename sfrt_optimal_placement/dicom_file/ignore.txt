@@ -1,0 +1,1 @@
+Place Rstruct file in this dicom_file directory and run run_model.py or python run_model.py from sfrt_optimal_placement directory
